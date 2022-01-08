@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+.user-pointer{
+    cursor: pointer;
+}
+.small-flag {
+    width: 50px;
+}
+.medium-flag {
+    width: 150px;
+}
